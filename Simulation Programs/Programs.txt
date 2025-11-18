@@ -1,0 +1,28 @@
+Cycle 1: Exercises done using CISCO Packet Tracer
+
+Questions:
+1) Create a topology and simulate sending a simple PDU from source to destination using hub and switch as connecting devices and demonstrate ping message.
+
+2) Configure default route, static route to the Router, 
+Explore the following messages: ping responses, destination unreachable, request timed out, reply
+
+3) Configure DHCP within a LAN and outside LAN
+
+4) Configure Web Server, DNS within a LAN
+
+5) To understand the operation of TELNET by accessing the router in
+  server room from a PC in IT office.
+
+6) Configure RIP routing Protocol in Routers
+
+7) Configure OSPF routing protocol
+
+8) Demonstrate the TTL/ Life of a Packet
+
+9) To construct simple LAN and understand the concept and operation of Address Resolution Protocol (ARP)
+
+10) To construct a VLAN and make the PC’s communicate among a VLAN
+
+11) To construct a WLAN and make the nodes communicate wirelessly
+
+
